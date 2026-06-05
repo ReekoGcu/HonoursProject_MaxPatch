@@ -18,8 +18,7 @@
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 866.0, 568.0, 45.0, 22.0 ],
-                    "presentation_linecount": 2,
+                    "patching_rect": [ 828.0, 313.0, 45.0, 22.0 ],
                     "text": "wclose"
                 }
             },
@@ -37,7 +36,7 @@
                     "numoutlets": 8,
                     "offset": [ 0.0, 0.0 ],
                     "outlettype": [ "signal", "signal", "", "list", "int", "", "", "" ],
-                    "patching_rect": [ 791.0, 24.0, 927.0, 536.0 ],
+                    "patching_rect": [ 791.0, 366.0, 425.0, 194.0 ],
                     "save": [ "#N", "vst~", "loaduniqueid", 0, ";" ],
                     "saved_attribute_attributes": {
                         "valueof": {
@@ -63,9 +62,9 @@
                         "embed": 1,
                         "snapshot": {
                             "pluginname": "OmniaSonus.vst3info",
-                            "plugindisplayname": "SimpleMBComp",
+                            "plugindisplayname": "OmniaSonus",
                             "pluginsavedname": "",
-                            "pluginsaveduniqueid": 0,
+                            "pluginsaveduniqueid": -379998582,
                             "version": 1,
                             "isbank": 0,
                             "isbase64": 1,
@@ -87,9 +86,9 @@
                                     "embed": 1,
                                     "snapshot": {
                                         "pluginname": "OmniaSonus.vst3info",
-                                        "plugindisplayname": "SimpleMBComp",
+                                        "plugindisplayname": "OmniaSonus",
                                         "pluginsavedname": "",
-                                        "pluginsaveduniqueid": 0,
+                                        "pluginsaveduniqueid": -379998582,
                                         "version": 1,
                                         "isbank": 0,
                                         "isbase64": 1,
@@ -120,7 +119,7 @@
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 829.0, 568.0, 35.0, 22.0 ],
+                    "patching_rect": [ 791.0, 313.0, 35.0, 22.0 ],
                     "text": "open"
                 }
             },
@@ -131,7 +130,6 @@
                     "numinlets": 1,
                     "numoutlets": 0,
                     "patching_rect": [ 632.0, 540.0, 122.0, 20.0 ],
-                    "presentation_linecount": 2,
                     "style": "helpfile_label",
                     "text": "ACTIVE Plug_in"
                 }
@@ -640,7 +638,7 @@
                                     "numinlets": 0,
                                     "numoutlets": 1,
                                     "outlettype": [ "bang" ],
-                                    "patching_rect": [ 1008.8000150322914, 324.0000048279762, 30.0, 30.0 ]
+                                    "patching_rect": [ 735.0, 255.0, 30.0, 30.0 ]
                                 }
                             },
                             {
@@ -652,7 +650,7 @@
                                     "numinlets": 0,
                                     "numoutlets": 1,
                                     "outlettype": [ "bang" ],
-                                    "patching_rect": [ 893.6000133156776, 324.0000048279762, 30.0, 30.0 ]
+                                    "patching_rect": [ 620.0, 255.0, 30.0, 30.0 ]
                                 }
                             },
                             {
@@ -664,7 +662,7 @@
                                     "numinlets": 0,
                                     "numoutlets": 1,
                                     "outlettype": [ "bang" ],
-                                    "patching_rect": [ 845.6000126004219, 324.0000048279762, 30.0, 30.0 ]
+                                    "patching_rect": [ 572.0, 255.0, 30.0, 30.0 ]
                                 }
                             },
                             {
@@ -676,7 +674,7 @@
                                     "numinlets": 0,
                                     "numoutlets": 1,
                                     "outlettype": [ "bang" ],
-                                    "patching_rect": [ 798.4000118970871, 324.0000048279762, 30.0, 30.0 ]
+                                    "patching_rect": [ 524.0, 255.0, 30.0, 30.0 ]
                                 }
                             },
                             {
@@ -688,7 +686,7 @@
                                     "numinlets": 0,
                                     "numoutlets": 1,
                                     "outlettype": [ "bang" ],
-                                    "patching_rect": [ 756.0000112652779, 324.0000048279762, 30.0, 30.0 ]
+                                    "patching_rect": [ 482.0, 255.0, 30.0, 30.0 ]
                                 }
                             },
                             {
@@ -700,7 +698,7 @@
                                     "numinlets": 0,
                                     "numoutlets": 1,
                                     "outlettype": [ "bang" ],
-                                    "patching_rect": [ 712.8000106215477, 324.0000048279762, 30.0, 30.0 ]
+                                    "patching_rect": [ 439.0, 255.0, 30.0, 30.0 ]
                                 }
                             },
                             {
@@ -710,7 +708,7 @@
                                     "numinlets": 2,
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
-                                    "patching_rect": [ 940.0000140070915, 466.4000069499016, 45.0, 22.0 ],
+                                    "patching_rect": [ 666.0, 397.0, 45.0, 22.0 ],
                                     "text": "listvst3"
                                 }
                             },
@@ -721,7 +719,7 @@
                                     "numinlets": 2,
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
-                                    "patching_rect": [ 893.6000133156776, 466.4000069499016, 38.0, 22.0 ],
+                                    "patching_rect": [ 620.0, 397.0, 38.0, 22.0 ],
                                     "text": "listvst"
                                 }
                             },
@@ -732,7 +730,7 @@
                                     "numinlets": 2,
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
-                                    "patching_rect": [ 845.6000126004219, 466.4000069499016, 29.5, 22.0 ],
+                                    "patching_rect": [ 572.0, 397.0, 29.5, 22.0 ],
                                     "text": "3"
                                 }
                             },
@@ -743,7 +741,7 @@
                                     "numinlets": 2,
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
-                                    "patching_rect": [ 798.4000118970871, 466.4000069499016, 29.5, 22.0 ],
+                                    "patching_rect": [ 524.0, 397.0, 29.5, 22.0 ],
                                     "text": "2"
                                 }
                             },
@@ -754,7 +752,7 @@
                                     "numinlets": 2,
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
-                                    "patching_rect": [ 756.0000112652779, 466.4000069499016, 29.5, 22.0 ],
+                                    "patching_rect": [ 482.0, 397.0, 29.5, 22.0 ],
                                     "text": "1"
                                 }
                             },
@@ -765,7 +763,7 @@
                                     "numinlets": 2,
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
-                                    "patching_rect": [ 712.8000106215477, 466.4000069499016, 29.5, 22.0 ],
+                                    "patching_rect": [ 439.0, 397.0, 29.5, 22.0 ],
                                     "text": "0"
                                 }
                             },
@@ -776,7 +774,7 @@
                                     "numinlets": 2,
                                     "numoutlets": 1,
                                     "outlettype": [ "" ],
-                                    "patching_rect": [ 1008.8000150322914, 466.4000069499016, 51.0, 22.0 ],
+                                    "patching_rect": [ 735.0, 397.0, 51.0, 22.0 ],
                                     "text": "scan $1"
                                 }
                             },
@@ -788,7 +786,7 @@
                                     "maxclass": "outlet",
                                     "numinlets": 1,
                                     "numoutlets": 0,
-                                    "patching_rect": [ 712.0000106096268, 544.0000081062317, 30.0, 30.0 ]
+                                    "patching_rect": [ 438.0, 475.0, 30.0, 30.0 ]
                                 }
                             }
                         ],
@@ -796,70 +794,70 @@
                             {
                                 "patchline": {
                                     "destination": [ "obj-8", 0 ],
-                                    "midpoints": [ 722.3000106215477, 357.0, 722.3000106215477, 357.0 ],
+                                    "midpoints": [ 448.5, 287.9999951720238, 448.5, 287.9999951720238 ],
                                     "source": [ "obj-1", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-6", 0 ],
-                                    "midpoints": [ 807.9000118970871, 498.0, 1005.0, 498.0, 1005.0, 462.0, 1018.3000150322914, 462.0 ],
+                                    "midpoints": [ 533.5, 428.9999951720238, 731.1999849677086, 428.9999951720238, 731.1999849677086, 392.9999951720238, 744.5, 392.9999951720238 ],
                                     "source": [ "obj-10", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-6", 0 ],
-                                    "midpoints": [ 855.1000126004219, 498.0, 1005.0, 498.0, 1005.0, 462.0, 1018.3000150322914, 462.0 ],
+                                    "midpoints": [ 581.5, 428.9999951720238, 731.1999849677086, 428.9999951720238, 731.1999849677086, 392.9999951720238, 744.5, 392.9999951720238 ],
                                     "source": [ "obj-11", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-6", 0 ],
-                                    "midpoints": [ 1018.3000150322914, 357.0, 1018.3000150322914, 357.0 ],
+                                    "midpoints": [ 744.5, 287.9999951720238, 744.5, 287.9999951720238 ],
                                     "source": [ "obj-12", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-48", 0 ],
-                                    "midpoints": [ 903.1000133156776, 531.0, 721.5000106096268, 531.0 ],
+                                    "midpoints": [ 629.5, 461.9999951720238, 447.5, 461.9999951720238 ],
                                     "source": [ "obj-14", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-48", 0 ],
-                                    "midpoints": [ 949.5000140070915, 531.0, 721.5000106096268, 531.0 ],
+                                    "midpoints": [ 675.5, 461.9999951720238, 447.5, 461.9999951720238 ],
                                     "source": [ "obj-15", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-9", 0 ],
-                                    "midpoints": [ 765.5000112652779, 357.0, 765.5000112652779, 357.0 ],
+                                    "midpoints": [ 491.5, 287.9999951720238, 491.5, 287.9999951720238 ],
                                     "source": [ "obj-2", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-10", 0 ],
-                                    "midpoints": [ 807.9000118970871, 357.0, 807.9000118970871, 357.0 ],
+                                    "midpoints": [ 533.5, 287.9999951720238, 533.5, 287.9999951720238 ],
                                     "source": [ "obj-3", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-11", 0 ],
-                                    "midpoints": [ 855.1000126004219, 357.0, 855.1000126004219, 357.0 ],
+                                    "midpoints": [ 581.5, 287.9999951720238, 581.5, 287.9999951720238 ],
                                     "source": [ "obj-4", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-14", 0 ],
-                                    "midpoints": [ 903.1000133156776, 357.0, 903.1000133156776, 357.0 ],
+                                    "midpoints": [ 629.5, 287.9999951720238, 629.5, 287.9999951720238 ],
                                     "order": 1,
                                     "source": [ "obj-5", 0 ]
                                 }
@@ -867,7 +865,7 @@
                             {
                                 "patchline": {
                                     "destination": [ "obj-15", 0 ],
-                                    "midpoints": [ 903.1000133156776, 453.0, 949.5000140070915, 453.0 ],
+                                    "midpoints": [ 629.5, 383.9999951720238, 675.5, 383.9999951720238 ],
                                     "order": 0,
                                     "source": [ "obj-5", 0 ]
                                 }
@@ -875,21 +873,21 @@
                             {
                                 "patchline": {
                                     "destination": [ "obj-48", 0 ],
-                                    "midpoints": [ 1018.3000150322914, 531.0, 721.5000106096268, 531.0 ],
+                                    "midpoints": [ 744.5, 461.9999951720238, 447.5, 461.9999951720238 ],
                                     "source": [ "obj-6", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-6", 0 ],
-                                    "midpoints": [ 722.3000106215477, 498.0, 1005.0, 498.0, 1005.0, 462.0, 1018.3000150322914, 462.0 ],
+                                    "midpoints": [ 448.5, 428.9999951720238, 731.1999849677086, 428.9999951720238, 731.1999849677086, 392.9999951720238, 744.5, 392.9999951720238 ],
                                     "source": [ "obj-8", 0 ]
                                 }
                             },
                             {
                                 "patchline": {
                                     "destination": [ "obj-6", 0 ],
-                                    "midpoints": [ 765.5000112652779, 498.0, 1005.0, 498.0, 1005.0, 462.0, 1018.3000150322914, 462.0 ],
+                                    "midpoints": [ 491.5, 428.9999951720238, 731.1999849677086, 428.9999951720238, 731.1999849677086, 392.9999951720238, 744.5, 392.9999951720238 ],
                                     "source": [ "obj-9", 0 ]
                                 }
                             }
@@ -936,7 +934,7 @@
             {
                 "box": {
                     "id": "obj-31",
-                    "items": [ "Acid V", ",", "Addictive Keys", ",", "AudioFilePlayer", ",", "Crystallizer", ",", "CW2Delay", ",", "Decapitator", ",", "DevilLoc", ",", "DevilLocDeluxe", ",", "EchoBoy", ",", "EchoBoyJr", ",", "EffectRack", ",", "FilterFreak1", ",", "FilterFreak2", ",", "Kontakt 8", ",", "LittleAlterBoy", ",", "LittleMicroShift", ",", "LittlePlate", ",", "LittlePrimalTap", ",", "LittleRadiator", ",", "Lounge Lizard Session 4", ",", "Massive X", ",", "MicroShift", ",", "MiniMeters - Audio-Server", ",", "MiniMeters - Loudness", ",", "MiniMeters - Oscilloscope", ",", "MiniMeters - Spectrogram", ",", "MiniMeters - Spectrum", ",", "MiniMeters - Stereometer", ",", "MiniMeters - VU", ",", "MiniMeters - Waveform", ",", "MiniMeters", ",", "OmniaSonus", ",", "PanMan", ",", "Pendulate", ",", "PhaseMistress", ",", "PrimalTap", ",", "Radiator", ",", "SieQ", ",", "SpaceBlender", ",", "SPAN", ",", "Strum Session 2", ",", "SuperPlate", ",", "ThingsMotor", ",", "Tremolator", ",", "TubeSaturatorVintage_64", ",", "ValhallaFreqEcho", ",", "ValhallaSpaceModulator", ",", "ValhallaSupermassive", ",", "WaveShell1-VST3 16.7_x64", ",", "Youlean Loudness Meter 2", ",", "Acid V", ",", "Addictive Keys", ",", "Crystallizer", ",", "Decapitator", ",", "DevilLoc", ",", "DevilLocDeluxe", ",", "EchoBoy", ",", "EchoBoyJr", ",", "EffectRack", ",", "FilterFreak1", ",", "FilterFreak2", ",", "Kickstart-64bit", ",", "LittleAlterBoy", ",", "LittleMicroShift", ",", "LittlePlate", ",", "LittlePrimalTap", ",", "LittleRadiator", ",", "MicroShift", ",", "PanMan", ",", "PhaseMistress", ",", "PrimalTap", ",", "Radiator", ",", "SieQ", ",", "SpaceBlender", ",", "SuperPlate", ",", "Tremolator", ",", "TubeSaturatorVintage_64", ",", "Youlean Loudness Meter 2", ",", "Acid V", ",", "Addictive Keys", ",", "AudioFilePlayer", ",", "Crystallizer", ",", "CW2Delay", ",", "Decapitator", ",", "DevilLoc", ",", "DevilLocDeluxe", ",", "EchoBoy", ",", "EchoBoyJr", ",", "EffectRack", ",", "FilterFreak1", ",", "FilterFreak2", ",", "Kontakt 8", ",", "LittleAlterBoy", ",", "LittleMicroShift", ",", "LittlePlate", ",", "LittlePrimalTap", ",", "LittleRadiator", ",", "Lounge Lizard Session 4", ",", "Massive X", ",", "MicroShift", ",", "MiniMeters - Audio-Server", ",", "MiniMeters - Loudness", ",", "MiniMeters - Oscilloscope", ",", "MiniMeters - Spectrogram", ",", "MiniMeters - Spectrum", ",", "MiniMeters - Stereometer", ",", "MiniMeters - VU", ",", "MiniMeters - Waveform", ",", "MiniMeters", ",", "OmniaSonus", ",", "PanMan", ",", "Pendulate", ",", "PhaseMistress", ",", "PrimalTap", ",", "Radiator", ",", "SieQ", ",", "SpaceBlender", ",", "SPAN", ",", "Strum Session 2", ",", "SuperPlate", ",", "ThingsMotor", ",", "Tremolator", ",", "TubeSaturatorVintage_64", ",", "ValhallaFreqEcho", ",", "ValhallaSpaceModulator", ",", "ValhallaSupermassive", ",", "WaveShell1-VST3 16.7_x64", ",", "Youlean Loudness Meter 2", ",", "Acid V", ",", "Addictive Keys", ",", "Crystallizer", ",", "Decapitator", ",", "DevilLoc", ",", "DevilLocDeluxe", ",", "EchoBoy", ",", "EchoBoyJr", ",", "EffectRack", ",", "FilterFreak1", ",", "FilterFreak2", ",", "Kickstart-64bit", ",", "LittleAlterBoy", ",", "LittleMicroShift", ",", "LittlePlate", ",", "LittlePrimalTap", ",", "LittleRadiator", ",", "MicroShift", ",", "PanMan", ",", "PhaseMistress", ",", "PrimalTap", ",", "Radiator", ",", "SieQ", ",", "SpaceBlender", ",", "SuperPlate", ",", "Tremolator", ",", "TubeSaturatorVintage_64", ",", "Youlean Loudness Meter 2" ],
+                    "items": [ "Acid V", ",", "Addictive Keys", ",", "AudioFilePlayer", ",", "Crystallizer", ",", "CW2Delay", ",", "Decapitator", ",", "DevilLoc", ",", "DevilLocDeluxe", ",", "EchoBoy", ",", "EchoBoyJr", ",", "EffectRack", ",", "FilterFreak1", ",", "FilterFreak2", ",", "Kontakt 8", ",", "LittleAlterBoy", ",", "LittleMicroShift", ",", "LittlePlate", ",", "LittlePrimalTap", ",", "LittleRadiator", ",", "Lounge Lizard Session 4", ",", "Massive X", ",", "MicroShift", ",", "MiniMeters - Audio-Server", ",", "MiniMeters - Loudness", ",", "MiniMeters - Oscilloscope", ",", "MiniMeters - Spectrogram", ",", "MiniMeters - Spectrum", ",", "MiniMeters - Stereometer", ",", "MiniMeters - VU", ",", "MiniMeters - Waveform", ",", "MiniMeters", ",", "OmniaSonus", ",", "PanMan", ",", "Pendulate", ",", "PhaseMistress", ",", "PrimalTap", ",", "Radiator", ",", "SieQ", ",", "SimpleMBComp", ",", "SpaceBlender", ",", "SPAN", ",", "Strum Session 2", ",", "SuperPlate", ",", "ThingsMotor", ",", "Tremolator", ",", "TubeSaturatorVintage_64", ",", "ValhallaFreqEcho", ",", "ValhallaSpaceModulator", ",", "ValhallaSupermassive", ",", "WaveShell1-VST3 16.7_x64", ",", "Youlean Loudness Meter 2", ",", "Acid V", ",", "Addictive Keys", ",", "Crystallizer", ",", "Decapitator", ",", "DevilLoc", ",", "DevilLocDeluxe", ",", "EchoBoy", ",", "EchoBoyJr", ",", "EffectRack", ",", "FilterFreak1", ",", "FilterFreak2", ",", "Kickstart-64bit", ",", "LittleAlterBoy", ",", "LittleMicroShift", ",", "LittlePlate", ",", "LittlePrimalTap", ",", "LittleRadiator", ",", "MicroShift", ",", "PanMan", ",", "PhaseMistress", ",", "PrimalTap", ",", "Radiator", ",", "SieQ", ",", "SpaceBlender", ",", "SuperPlate", ",", "Tremolator", ",", "TubeSaturatorVintage_64", ",", "Youlean Loudness Meter 2" ],
                     "maxclass": "umenu",
                     "numinlets": 1,
                     "numoutlets": 3,
@@ -1041,7 +1039,7 @@
             {
                 "patchline": {
                     "destination": [ "obj-7", 0 ],
-                    "midpoints": [ 327.0, 555.0, 423.0, 555.0, 423.0, 516.0, 783.0, 516.0, 783.0, 21.0, 800.5, 21.0 ],
+                    "midpoints": [ 327.0, 555.0, 423.0, 555.0, 423.0, 516.0, 777.0, 516.0, 777.0, 363.0, 800.5, 363.0 ],
                     "order": 0,
                     "source": [ "obj-64", 0 ]
                 }
@@ -1049,28 +1047,20 @@
             {
                 "patchline": {
                     "destination": [ "obj-7", 0 ],
-                    "midpoints": [ 838.5, 600.0, 783.0, 600.0, 783.0, 21.0, 800.5, 21.0 ],
+                    "midpoints": [ 800.5, 342.0, 800.5, 342.0 ],
                     "source": [ "obj-67", 0 ]
                 }
             },
             {
                 "patchline": {
                     "destination": [ "obj-7", 0 ],
-                    "midpoints": [ 875.5, 600.0, 783.0, 600.0, 783.0, 21.0, 800.5, 21.0 ],
+                    "midpoints": [ 837.5, 351.0, 800.5, 351.0 ],
                     "source": [ "obj-71", 0 ]
                 }
             }
         ],
         "parameters": {
             "obj-7": [ "vst~[7]", "vst~[7]", 0 ],
-            "parameterbanks": {
-                "0": {
-                    "index": 0,
-                    "name": "",
-                    "parameters": [ "-", "-", "-", "-", "-", "-", "-", "-" ],
-                    "buttons": [ "-", "-", "-", "-", "-", "-", "-", "-" ]
-                }
-            },
             "inherited_shortname": 1
         },
         "autosave": 0,

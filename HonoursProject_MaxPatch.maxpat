@@ -13,6 +13,38 @@
         "boxes": [
             {
                 "box": {
+                    "id": "obj-120",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [ 1960.0000584125519, 676.0000201463699, 146.66667103767395, 20.0 ],
+                    "presentation_linecount": 2,
+                    "text": "Highs - 5000Hz-20000Hz"
+                }
+            },
+            {
+                "box": {
+                    "id": "obj-119",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [ 1605.3333759307861, 676.0000201463699, 130.6666705608368, 20.0 ],
+                    "presentation_linecount": 2,
+                    "text": "Mids - 500Hz-5000Hz"
+                }
+            },
+            {
+                "box": {
+                    "id": "obj-118",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [ 1250.6667039394379, 676.0000201463699, 114.66667008399963, 20.0 ],
+                    "text": "Lows - 0Hz-500Hz"
+                }
+            },
+            {
+                "box": {
                     "id": "obj-105",
                     "maxclass": "newobj",
                     "numinlets": 1,
@@ -95,7 +127,7 @@
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 1857.3333886861801, 519.3333487510681, 352.0, 141.0 ]
+                    "patching_rect": [ 1857.3333939313889, 520.0000153779984, 352.0, 141.0 ]
                 }
             },
             {
@@ -1717,7 +1749,7 @@
             {
                 "patchline": {
                     "destination": [ "obj-112", 0 ],
-                    "midpoints": [ 1553.8333777189255, 336.0, 1854.0, 336.0, 1854.0, 516.0, 1866.8333886861801, 516.0 ],
+                    "midpoints": [ 1553.8333777189255, 336.0, 1854.0, 336.0, 1854.0, 516.0, 1866.8333939313889, 516.0 ],
                     "order": 1,
                     "source": [ "obj-95", 1 ]
                 }
